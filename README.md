@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="658" height="297" alt="image" src="https://raw.githubusercontent.com/Made-By-Matt/Glue3D-Community-Version/refs/heads/main/Glue3D%20Banner.png" />
+  <img width="658" height="200" alt="image" src="https://raw.githubusercontent.com/Made-By-Matt/Glue3D-Community-Version/refs/heads/main/Glue3D%20Banner.png" />
 </p>
 
 # Glue3D CV
