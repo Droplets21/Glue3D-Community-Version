@@ -4,7 +4,7 @@
 
 # Glue3D CV
 
-**Glue3D Comunity Version** Is the offical way to contribute and keep updates for Glue3D owned and ran by the community
+**Glue3D Comunity Edition** Is the offical way to contribute and keep updates for Glue3D owned and ran by the community
 
 ## What does it add?
 
